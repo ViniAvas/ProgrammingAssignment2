@@ -1,4 +1,4 @@
-## Functions assignments2
+## Functions assignments2 Coursera R prograaming
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
